@@ -2,6 +2,6 @@
 #define  print printf
 
 int main(void){
-	print("\thello world");
+	print("\thello world, i belive i can fly");
 	return 0;
 }
